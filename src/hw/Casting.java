@@ -23,6 +23,7 @@ public class Casting {
 		
 		double q = (double)ll;
 		System.out.println(q);
+		System.out.println(q);
 	}		 
 			 
 	 static double a =(double)Price;		 
